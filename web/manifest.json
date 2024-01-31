@@ -1,0 +1,22 @@
+{
+    "name": "RGOS PDF viewer",
+    "short_name": "RGOS PDF", 
+    "description": "A web pdf viewer for the RGOS based on pdf.js",
+    "start_url": ".",
+    "theme_color": "#ff7b00",
+    "background_color": "#000000",
+    "display": "standalone",
+    "icons":[
+      {
+        "src":"images/pwa/pdf-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src":"images/pwa/pdf-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  
+  }
