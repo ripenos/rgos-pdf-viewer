@@ -4516,7 +4516,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   }
 };
-var x = "compressed.tracemonkey-pldi-09.pdf";
+var x = "RGOS.pdf";
 {
   defaultOptions.defaultUrl = {
     value: x,
